@@ -3,7 +3,7 @@ Impulse force can be defined as a force of large magnitude that acts for a short
 
 <center>
 
-Impulse = F&delta;T = m \dot x<sub>2</sub> - m \dot x<sub>1</sub>
+![Alt text](images/eqn1.png)
 
 </center>
 
@@ -13,13 +13,13 @@ The initial conditions are given by
 
 x(t=0) = x<sub>0</sub> = 0
 
-\dot x(t=0) = \dot x<sub>0</sub> = 1/m
+![Alt text](images/eq2.png)
 
 </center>
 
 Forging is a technology that is built using trial and error method over a period of time, it was an experience oriented technology. The hammer when used over a billet impresses an impulse force. The billet and mass absorb the mass and undergo displacement. For this experiment, the displacement of the masses are simulated when an impulse force is acted upon it.
 
-The displacement for the masses are calculated as, X1 and X2, which are also the static amplitudes
+The displacement for the masses are calculated as, X<sub>1</sub> and X<sub>2</sub>, which are also the static amplitudes
 
 <center>
 
@@ -27,7 +27,7 @@ The displacement for the masses are calculated as, X1 and X2, which are also the
 
 </center>
 
-The x1 and x2 are the dynamic amplitudes which is the cos function of time
+The x<sub>1</sub> and x<sub>2</sub> are the dynamic amplitudes which is the cos function of time
 
 <center>
 
@@ -35,7 +35,7 @@ The x1 and x2 are the dynamic amplitudes which is the cos function of time
 
 </center>
 
-the x10 and x20 is the initial amplitude
+the x<sub>10</sub> and x<sub>20</sub> is the initial amplitude
 
 <center>
 
@@ -45,4 +45,8 @@ the x10 and x20 is the initial amplitude
 
 the x1d and x2d is the initial assumed velocity which is 0 in this case
 
+<center>
+
 ![Alt text](images/8.png)
+
+</center>
