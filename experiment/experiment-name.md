@@ -1,1 +1,1 @@
-7. Forging hammer as 2DOF system - Impulse Excitation
+## Forging hammer as 2DOF system - Impulse Excitation
