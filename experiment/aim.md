@@ -1,1 +1,1 @@
-To visualize response of forging hammer as a 2 DOF system under impulse excitation.
+To visualize the transient response of forging hammer as a 2 DOF system under impulse excitation.

@@ -18,7 +18,7 @@
     pop();
 
     textSize(20);
-    text('Frequency Response Curves',50, 150);
+    text('Frequency Response Curves',50, 120);
     
     magFac1.initialise();
     magFac1.draw();
@@ -27,6 +27,13 @@
     magFac2.initialise();
     magFac2.draw();
 
+
+    stroke('red');
+    line(230 , 545 , 260 , 545);
+    stroke('black')
+    textSize(12);
+    text('frequency line with respet to  different amplitude' , 270 , 550);
+    
 
 
     strokeWeight(1);

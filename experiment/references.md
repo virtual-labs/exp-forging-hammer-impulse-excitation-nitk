@@ -8,7 +8,6 @@
 <ol>
 <li>Mechanical Vibrations (Singiresu S. Rao, Philip Griffin)</li>
 <li>G K Grover - Mechanical Vibrations (2015, Nem Chand & Bros.) </li>
-<li>Saberi, S., Fischer, J., Stockinger, M. et al. Theoretical and experimental investigations of mechanical vibrations of hot hammer forging. Int J Adv Manuf Technol 114, 3037–3045 (2021). <a href="https://doi.org/10.1007/s00170-021-07061-y">https://doi.org/10.1007/s00170-021-07061-y</a></li>
 </ol>
 </td>
 <td>Developer : Dr. K V Gangadharan | NITK</br></br>

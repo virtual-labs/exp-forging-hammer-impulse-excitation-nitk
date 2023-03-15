@@ -103,7 +103,7 @@ function setup() {
     k2 = new NumberInput(620, 300, "k2 (N/m)", 5, 20 ,5, 2,1, true);
     m2 = new NumberInput(620, 360, "m2(kg)", 10, 50, 10, 1,1, true);
     k3= new NumberInput(620, 190, "k3(N/m)", 5, 20, 0, 0.5,1, true);
-    F0 = new NumberInput(620, 140, "F0(N)",1, 40,1 ,0.5,1, true);
+    F0 = new NumberInput(620, 140, "F0(N)",1, 10,1 ,0.5,1, true);
     button1 = new Button(645, 430, pause)
     button2 = new Button(706, 430, graph)
     button3 = new Button(645,460,back)
