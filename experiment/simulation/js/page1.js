@@ -62,7 +62,7 @@ function runPage1() {
     // line(300,440,300,580)
     text('X1/X2 = ' + (spring1.x1/spring1.x2).toFixed(3) + " rad/s", 310, 550);
     text('ω1 = ' + ((spring1.w1)).toFixed(4) + " rad/s", 110, 510)
-    text('ω2 = ' + ((spring1.w1)).toFixed(4) + " rad/s", 110, 550)
+    text('ω2 = ' + ((spring1.w2)).toFixed(4) + " rad/s", 110, 550)
     
 
     line (spring1.masscoordinates[0], spring1.masscoordinates[1], position_graph1.graphend[0], position_graph1.graphend[1])

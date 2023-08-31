@@ -88,8 +88,8 @@ function setup() {
     position_graph2 = new Graph(50, 210, 100, 220, "x2", "t");
   //  changetime = System.changetime();
 
-    magFac1 = new DynamicGraph(50, 500, 300, 220, "X1/Xst", "ω1", 0,7,0,10, System.mag_func1);
-    magFac2 = new DynamicGraph(350, 500, 300, 220, "X2/Xst", "ω2",0, 7,0,10, System.mag_func2);
+    magFac1 = new DynamicGraph(50, 500, 300, 220, "X/Xst", "ω", 0,7,0,10, System.mag_func1 ,  0 );
+    magFac2 = new DynamicGraph(50, 500, 300, 220, "X/Xst", "ω",0, 7,0,10, System.mag_func2 , 255);
 
     //magFac = new DynamicGraph(125, 325, 230, 290, "Magnification Factor", "n", 0, 2.5, 0, 7.5, System.mag_func);
     //phaseAng = new DynamicGraph(125, 495, 150, 290, "Phase Angle", "n", 0, 2.5, 0, 180, System.phase_func);
@@ -110,9 +110,6 @@ function setup() {
     button4 = new Button(705, 460, graph)
     button5 = new Button(645,470,back)
     button6 = new Button(645 , 480 , bluec)
-
- 
-
     flag = false;
    }
 

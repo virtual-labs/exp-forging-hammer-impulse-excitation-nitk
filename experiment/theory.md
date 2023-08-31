@@ -4,8 +4,7 @@
  
 ![Alt text](images/10.png)
  
-
-
+ 
 The initial conditions are given by
 
 ![Alt text](images/11.png)
