@@ -10,7 +10,7 @@ The response of the forge i.e m<sub>1</sub> and m<sub>2</sub> for different magn
 1. On clicking the simulation tab, the first page is displayed as shown below.
 
 
-![Alt text](Images/1.png)
+![Alt text](images/1.png)
 
 Here, the user can set F<sub>0</sub> which will be the magnitude with which the hammer (animated red rectangle) will fall on the m<sub>2</sub> and m<sub>1</sub>. The response of the system can be adjusted by varying k<sub>3</sub>, k<sub>1</sub>, m<sub>1</sub>, k<sub>2</sub> and m<sub>2</sub>.
 
@@ -18,7 +18,7 @@ Here, the user can set F<sub>0</sub> which will be the magnitude with which the 
 2. On clicking the next button, the mode shapes will be displayed, while the simulation is running.
 
 
-![Alt text](Images/2.png)
+![Alt text](images/2.png)
 
 
 
@@ -26,5 +26,5 @@ Here, the user can set F<sub>0</sub> which will be the magnitude with which the 
 3. The third page shows the frequency response curves.
 
 
-![Alt text](Images/3.png)
+![Alt text](images/3.png)
 
