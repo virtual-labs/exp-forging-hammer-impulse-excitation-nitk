@@ -1,0 +1,89 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "A 2 DOF system has:",
+      "answers": {
+        "a": "one normal mode",
+        "b": "two normal modes",
+        "c": "many normal modes",
+        "d":"None of the above"
+        
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The equation of motion of a 2DOF system are:",
+      "answers": {
+        "a": "linear",
+        "b": "Uncoupled",
+        "c": "Coupled",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Normal modes and principal modes are same. ",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Identify types of excitations",
+      "answers": {
+        "a": "Harmonic",
+        "b": "Periodic",
+        "c": "Random",
+        "d": "All of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Impulse excitation is ",
+      "answers": {
+        "a": "High Magnitude",
+        "b": "Lasts for a short period of time",
+        "c": "both a and b",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
