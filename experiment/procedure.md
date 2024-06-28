@@ -1,30 +1,29 @@
-Given Data:
-F<sub>0</sub> - Impulse load acting on anvil (N)<br>
-m<sub>1</sub> - Mass of the base (kg) <br>
-k<sub>1</sub> - Stiffness of the base (N/m) <br>
-m<sub>2</sub> - Mass of the anvil (kg) <br>
-k<sub>2</sub> - Stiffness of the anvil (N/m) <br>
+### Procedure
 
-The response of the forge i.e m<sub>1</sub> and m<sub>2</sub> for different magnitudes of impulse forces F<sub>0</sub> can be observed.
+<div style="text-align:left">
+  Click on the Simulation icon <img src="images/simulation.png" alt="Alt text" style="height:80px; width:80px;">  to view the simulation. 
 
-1. On clicking the simulation tab, the first page is displayed as shown below.
+   ![Alt text](images/Simscreen1.png)
+   
+   In order to view the variable section click on the Variable icon. <img src="images/var1.png" alt="Alt text" style="height:80px; width:80px;">
 
+   ![Alt text](images/var2.png)
 
-![Alt text](images/1.png)
+   Click on Play icon <img src="images/play1.png" alt="Alt text" style="height:80px; width:80px;"> to run the simulation and click on Pause icon <img src="images/pause.png" alt="Alt text" style="height:80px; width:80px;"> to stop it.
 
-Here, the user can set F<sub>0</sub> which will be the magnitude with which the hammer (animated red rectangle) will fall on the m<sub>2</sub> and m<sub>1</sub>. The response of the system can be adjusted by varying k<sub>3</sub>, k<sub>1</sub>, m<sub>1</sub>, k<sub>2</sub> and m<sub>2</sub>.
+   Click on the Next icon  <img src="images/next2.png" alt="Alt text" style="height:80px; width:80px;"> to go further.  
 
-<br>
-2. On clicking the next button, the mode shapes will be displayed, while the simulation is running.
+   ![Alt text](images/screen1.png)
+   
 
+   Click on the Next or Prev icon<img src="images/prenex.png" alt="Alt text" style="height:80px; width:80px;"> to cycle through different pages. 
 
-![Alt text](images/2.png)
+   ![Alt text](images/screen2.png)
 
+  Click on the Result icon  <img src="images/result.png" alt="Alt text" style="height:80px;width:80px;"> to view the result tab.
+  
+  ![Alt text](images/resultscreen.png)
 
+  Click on the Refresh icon  <img src="images/refresh.png" alt="Alt text" style="height:80px;width:80px;"> to restart the experiment.
 
-<br>
-3. The third page shows the frequency response curves.
-
-
-![Alt text](images/3.png)
-
+</div>

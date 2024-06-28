@@ -11,10 +11,10 @@
         
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "The right answer is (b). A single DOF system has one normal mode.",
+        "b": "Correct, the right answer is (b). A 2 DOF system has two normal modes because the system has 2 natural frequency.",
+        "c": "The right answer is (b). Multiple DOF system has many normal modes.",
+        "d": "The right answer is (b). A 2 DOF system has two normal modes because the system has 2 natural frequency."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -28,10 +28,10 @@
         "d": "None of the above"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "The right answer is (c). The equation of motion for a mass-spring system undergoing SHM is linear.",
+        "b": "The right answer is (c). The equation of motion of single DOF is uncoupled because the system has single mass.",
+        "c": "Correct, the right answer is (c). The equation of motion of a 2DOF system are coupled because one mass' movement is dependent on another mass' movement. So, both masses are inter-dependent (or coupled) to each other.",
+        "d": "The right answer is (c). The equation of motion of a 2DOF system are coupled because one mass' movement is dependent on another mass' movement. So, both masses are inter-dependent (or coupled) to each other."
       },
       "correctAnswer": "c",
       "difficulty": "intermediate"
@@ -43,10 +43,8 @@
         "b": "False"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "Correct, the right answer is (a). Normal modes are also called as principle modes.",
+        "b": "The right answer is (a). Normal modes are also called as principle modes."
       },
       "correctAnswer": "a",
       "difficulty": "intermediate"
@@ -60,10 +58,10 @@
         "d": "All of the above"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "The right answer is (d). The excitation can be Harmonic but also can be Periodic and random.",
+        "b": "The right answer is (d). The excitation can be Periodic but also can be Harmonic and random.",
+        "c": "The right answer is (d). The excitation can be random but also can be Periodic and Harmonic.",
+        "d": "Correct, the right answer is (d). The excitation can be Harmonic or can be Periodic or can be random."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
@@ -77,10 +75,10 @@
         "d": "None of the above"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "The right answer is (c). Impulse excitation has High magnitude but also lasts for a short period of time.",
+        "b": "The right answer is (c). Impulse excitation can last longer for a short period of time but also has hugh magnitude.",
+        "c": "Correct, the right answer is (c). Impulse excitation has a high magnitude of force but last longer for a short period of time.",
+        "d": "The right answer is (c). Impulse excitation has a high magnitude of force but last longer for a short period of time."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
