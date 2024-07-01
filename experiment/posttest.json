@@ -10,12 +10,12 @@
         "d": "None of the above"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "The right answer is (c). The Duhamel integral is used with non-periodic responses. It’s a powerful technique for solving linear differential equations with time-varying external forces. By integrating the product of the impulse response function and the external force, it provides a solution that accounts for the system’s dynamic behavior over time. ",
+        "b": "The right answer is (c). The Duhamel integral is used with non-periodic responses. It’s a powerful technique for solving linear differential equations with time-varying external forces. By integrating the product of the impulse response function and the external force, it provides a solution that accounts for the system’s dynamic behavior over time. ",
+        "c": "Correct, the right answer is (c). The Duhamel integral is used with non-periodic responses. It’s a powerful technique for solving linear differential equations with time-varying external forces. By integrating the product of the impulse response function and the external force, it provides a solution that accounts for the system’s dynamic behavior over time.",
+        "d": "The right answer is (c). The Duhamel integral is used with non-periodic responses. It’s a powerful technique for solving linear differential equations with time-varying external forces. By integrating the product of the impulse response function and the external force, it provides a solution that accounts for the system’s dynamic behavior over time. "
       },
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
@@ -27,16 +27,16 @@
         "d": "None of the above"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "The right answer is (c). Impulse response can be calculted as F&delta;T and m $dot x$<sub>2</sub> - m $dot x$<sub>1</sub>.",
+        "b": "The right answer is (c). Impulse response can be calculted as F&delta;T and m $dot x$<sub>2</sub> - m $dot x$<sub>1</sub>.",
+        "c": "Correct, the right answer is (c). Impulse response can be calculted as F&delta;T and m $dot x$<sub>2</sub> - m $dot x$<sub>1</sub>.",
+        "d": "The right answer is (c). Impulse response can be calculted as F&delta;T and m $dot x$<sub>2</sub> - m $dot x$<sub>1</sub>."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "At t=0 displacement for impulse response is assumed as",
+      "question": "At t=0, displacement for impulse response is assumed as",
       "answers": {
         "a": "Zero",
         "b": "One",
@@ -44,16 +44,16 @@
         "d": "None of the above"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "Correct, the right answer is (a). At t=0, the displacement for the impulse response is assumed to be zero. This assumption simplifies the analysis and allows us to focus on the system’s behavior after the impulse is applied.",
+        "b": "The right answer is (a). The displacement for the impulse response is assumed to be 1 at infinite time.",
+        "c": "The right answer is (a). At t=0, the displacement for the impulse response is assumed to be zero. This assumption simplifies the analysis and allows us to focus on the system’s behavior after the impulse is applied.",
+        "d": "The right answer is (a). At t=0, the displacement for the impulse response is assumed to be zero. This assumption simplifies the analysis and allows us to focus on the system’s behavior after the impulse is applied."
       },
       "correctAnswer": "a",
       "difficulty": "intermediate"
     },
     {
-      "question": "At t=0 velocity for impulse response is assumed as",
+      "question": "At t=0, velocity for impulse response is assumed as",
       "answers": {
         "a": "Zero",
         "b": "One",
@@ -61,16 +61,16 @@
         "d": "None of the above"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "Correct, the right answer is (a). At t=0, the velocity for the impulse response is assumed to be zero. This assumption simplifies the analysis and allows us to focus on the system’s behavior after the impulse is applied.",
+        "b": "The right answer is (a). At t=0, the velocity for the impulse response is assumed to be zero. This assumption simplifies the analysis and allows us to focus on the system’s behavior after the impulse is applied.",
+        "c": "The right answer is (a). At t=0, the velocity for the impulse response is assumed to be zero. This assumption simplifies the analysis and allows us to focus on the system’s behavior after the impulse is applied.",
+        "d": "The right answer is (a). At t=0, the velocity for the impulse response is assumed to be zero. This assumption simplifies the analysis and allows us to focus on the system’s behavior after the impulse is applied."
       },
-      "correctAnswer": "c",
+      "correctAnswer": "a",
       "difficulty": "intermediate"
     },
     {
-      "question": "At time t velocity for impulse response is assumed as",
+      "question": "At time t, velocity for impulse response is assumed as",
       "answers": {
         "a": "F/m",
         "b": "1/m",
@@ -78,10 +78,10 @@
         "d": "None of the above"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "Correct, the right answer is (a). At time t, velocity for impulse response is assumed as F/m.",
+        "b": "The right answer is (a). At time t, velocity for impulse response is assumed as F/m.",
+        "c": "The right answer is (a). At time t, velocity for impulse response is assumed as F/m.",
+        "d": "The right answer is (a). At time t, velocity for impulse response is assumed as F/m."
       },
       "correctAnswer": "a",
       "difficulty": "advanced"
