@@ -188,6 +188,7 @@ function screenchangeMag() {
     document.querySelector(".graph-one").classList.remove("display-hide");
     document.querySelector(".graph-two").classList.remove("display-hide");
     document.querySelector(".graph-div span").textContent = "Prev/Next";
+    document.querySelector(".titleExp").classList.add("display-hide");
     $('#playpausebutton').css({
       "opacity":0.5,
       "pointer-events":"none"
@@ -259,6 +260,7 @@ function screenChangePrevious() {
     document.querySelector(".graph-one").classList.add("display-hide");
     document.querySelector(".graph-two").classList.remove("display-hide");
     document.querySelector(".graph-div span").textContent = "Next";
+    document.querySelector(".titleExp").classList.remove("display-hide");
   } else if (graphStep === 1) {
     // console.log("prev to page 2");
     page1 = false;
@@ -268,6 +270,7 @@ function screenChangePrevious() {
     document.querySelector(".graph-one").classList.remove("display-hide");
     document.querySelector(".graph-two").classList.remove("display-hide");
     document.querySelector(".graph-div span").textContent = "Prev/Next";
+   
   } else if (graphStep < 0) {
     // console.log("Already on first page, can't go back further");
     graphStep = 0;

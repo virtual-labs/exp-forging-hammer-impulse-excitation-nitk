@@ -39,10 +39,10 @@ function refresh(event) {
       imgfilename.lastIndexOf(".")
     );
     if (imgfilename == "bluecwdull") {
-      refreshButton.src = "images/blueccwdull.svg";
+      refreshButton.src = "Images/blueccwdull.svg";
       rotstatus = -1;
     } else if (imgfilename == "blueccwdull") {
-      refreshButton.src = "images/bluecwdull.svg";
+      refreshButton.src = "Images/bluecwdull.svg";
       rotstatus = 1;
     }
     location.reload();

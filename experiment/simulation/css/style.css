@@ -28,6 +28,19 @@
   position: relative;
 }
 
+.titleExpdiv{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.titleExp{
+  position: absolute;
+  top: 70px;
+  font-family: 'Nunito', sans-serif;
+  font-size: 18px;
+ 
+}
+
 .logo-div {
   display: inline-block;
   margin-left: 2rem;
