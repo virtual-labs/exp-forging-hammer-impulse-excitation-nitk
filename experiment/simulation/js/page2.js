@@ -51,7 +51,7 @@
     textFont("'Nunito', sans-serif");
     textSize(17);
     strokeWeight(0);  
-    text("MODE SHAPES", 215, 20);
+    text("MODE SHAPES", 255, 50);
     // textSize(13);
       strokeWeight(1); 
     stroke(0,0,0);  

@@ -18,6 +18,9 @@ em:current font size
   gap: 1rem;
   font-size: 1rem;
 }
+.titleExp{
+font-size: 18px;
+}
   /* #refreshbutton{
     margin-top: -40px;
   } */
@@ -76,6 +79,9 @@ em:current font size
     left: 380px;
     top: 47px;
   } */
+  .titleExp{
+    font-size: 18px;
+    }
 }
 
 /* **************************** */
@@ -97,6 +103,9 @@ em:current font size
   .main__task-div {
     height: auto;
   }
+  /* .titleExp{
+    font-size: 16px;
+    } */
 
   .sidebar {
     position: fixed;
@@ -188,6 +197,7 @@ em:current font size
     gap: 1rem;
     font-size: 1rem;
   }
+
   /* #titleincanvas {
     position: absolute;
     left: 277px;
@@ -237,6 +247,9 @@ em:current font size
     gap: 1rem;
     font-size: 1rem;
   }
+  .titleExp{
+    font-size: 16px;
+    }
   /* #titleincanvas {
     position: absolute;
     left: 206px;
@@ -345,6 +358,9 @@ em:current font size
   .tool-list span {
     font-size: 1.3rem;
   }
+  .titleExp{
+    font-size: 10px;
+    }
   /* #refreshbutton{
     margin-top: -1px;
   } */

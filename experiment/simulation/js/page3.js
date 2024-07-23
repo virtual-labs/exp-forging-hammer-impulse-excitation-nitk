@@ -10,8 +10,8 @@
   pop();
 
   textSize(20);
-  strokeWeight(0.5);  
-  text('Frequency Response Curves',170, 20);
+  strokeWeight(0);  
+  text('Frequency Response Curves',170, 30);
 
   magFac1.initialise();
     magFac1.draw();
@@ -24,7 +24,7 @@
     strokeWeight(3);
     line(355 , 140 , 375 , 140);
     stroke('black');
-    strokeWeight(1);
+    strokeWeight(0.1);
     textSize(14);
     text('Frequency Response of Mass 1' , 380 , 145);
 
@@ -32,7 +32,7 @@
     strokeWeight(3);
     line(355 , 160 , 375 , 160);
     stroke('black')
-    strokeWeight(1);
+    strokeWeight(0.1);
     textSize(14);
     text('Frequency Response of Mass 2' , 380 , 165);
 
