@@ -32,7 +32,11 @@ class DynamicGraph  {
             }
             temp.push([x, y])
         }
-        temp.label = [255,0,this.tplgy];
+        if(this.tplgy == 255){
+            
+            temp.label = [72,6,92];
+        }
+        else temp.label = [255,0,this.tplgy];
         this.graphs.push(temp);
     }
 
