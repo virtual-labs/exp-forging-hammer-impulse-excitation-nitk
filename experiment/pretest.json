@@ -2,35 +2,83 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "A 2 DOF system has:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "one normal mode",
+        "b": "two normal modes",
+        "c": "many normal modes",
+        "d":"None of the above"
+        
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The right answer is (b). A single DOF system has one normal mode.",
+        "b": "Correct, the right answer is (b). A 2 DOF system has two normal modes because the system has 2 natural frequency.",
+        "c": "The right answer is (b). Multiple DOF system has many normal modes.",
+        "d": "The right answer is (b). A 2 DOF system has two normal modes because the system has 2 natural frequency."
       },
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The equation of motion of a 2DOF system are:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "linear",
+        "b": "Uncoupled",
+        "c": "Coupled",
+        "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The right answer is (c). The equation of motion for a mass-spring system undergoing SHM is linear.",
+        "b": "The right answer is (c). The equation of motion of single DOF is uncoupled because the system has single mass.",
+        "c": "Correct, the right answer is (c). The equation of motion of a 2DOF system are coupled because one mass' movement is dependent on another mass' movement. So, both masses are inter-dependent (or coupled) to each other.",
+        "d": "The right answer is (c). The equation of motion of a 2DOF system are coupled because one mass' movement is dependent on another mass' movement. So, both masses are inter-dependent (or coupled) to each other."
+      },
+      "correctAnswer": "c",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Normal modes and principal modes are same. ",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+      "explanations": {
+        "a": "Correct, the right answer is (a). Normal modes are also called as principle modes.",
+        "b": "The right answer is (a). Normal modes are also called as principle modes."
+      },
+      "correctAnswer": "a",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Identify types of excitations",
+      "answers": {
+        "a": "Harmonic",
+        "b": "Periodic",
+        "c": "Random",
+        "d": "All of the above"
+      },
+      "explanations": {
+        "a": "The right answer is (d). The excitation can be Harmonic but also can be Periodic and random.",
+        "b": "The right answer is (d). The excitation can be Periodic but also can be Harmonic and random.",
+        "c": "The right answer is (d). The excitation can be random but also can be Periodic and Harmonic.",
+        "d": "Correct, the right answer is (d). The excitation can be Harmonic or can be Periodic or can be random."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "An impulse excitation applied to a system is typically characterized by:",
+      "answers": {
+        "a": "High Magnitude",
+        "b": "Lasts for a short period of time",
+        "c": "both a and b",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "The right answer is (c). Impulse excitation has High magnitude but also lasts for a short period of time.",
+        "b": "The right answer is (c). Impulse excitation can last longer for a short period of time but also has hugh magnitude.",
+        "c": "Correct, the right answer is (c). Impulse excitation has a high magnitude of force but last longer for a short period of time.",
+        "d": "The right answer is (c). Impulse excitation has a high magnitude of force but last longer for a short period of time."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"

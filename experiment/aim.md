@@ -1,1 +1,1 @@
-### Aim of the experiment
+To visualize the transient response of forging hammer as a 2 DOF system under impulse excitation.
